@@ -2,7 +2,7 @@
     "name": "px-test",
     "author": "General Electric",
     "description": "A Px component",
-    "version": "10.0.0",
+    "version": "11.0.0",
     "private": true,
     "extName": null,
     "repository": {
