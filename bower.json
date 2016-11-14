@@ -1,6 +1,6 @@
 {
     "name": "px-test",
-    "version": "15.1.31",
+    "version": "15.1.32",
     "main": [
         "px-test.html"
     ],
